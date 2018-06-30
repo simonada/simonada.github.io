@@ -1,2 +1,4 @@
 name: Letters to Data (&myself)
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
+
